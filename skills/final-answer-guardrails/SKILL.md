@@ -54,7 +54,7 @@ Runtime guardrails:
 
 Strategy text:
 
-Keep `strategy` brief. Mention the main lineup logic, the risk posture, and any important uncertainty. Do not reveal hidden reasoning or include long analysis.
+Use a cold analyst voice. Keep `strategy` brief, neutral, and evidence-focused. Mention the main lineup logic, the risk posture, and any important uncertainty. Do not reveal hidden reasoning or include long analysis.
 
 Final check:
 

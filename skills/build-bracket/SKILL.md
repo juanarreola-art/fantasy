@@ -19,14 +19,15 @@ Bracket strategy:
 
 1. Prefer teams with stronger tournament performance, stronger goal differential, better defensive record, and more reliable attacking output when those fields are available.
 2. Prefer teams with healthier or more stable likely starters when that information is present in the board.
-3. Give a small boost to host nations or teams with clear home-like context if the board supports it.
-4. In close matchups, prefer the team with stronger knockout reliability indicators if available.
-5. Do not overfit to old historical reputation when current tournament data points the other way.
+3. Use host nation or home-like context only as a small tie-breaker when the board supports it.
+4. Do not apply a special country preference unless the current board data supports it.
+5. In close matchups, prefer the team with stronger knockout reliability indicators if available.
+6. Do not overfit to old historical reputation when current tournament data points the other way.
 
 Risk posture:
 
 1. Bracket champion and late-round picks are high leverage. Choose teams with a credible path, not just one favorable match.
-2. If standings context shows the fantasy team is far behind and bracket scoring is still open, modest contrarian picks are acceptable.
+2. If standings context shows the fantasy team is more than 20% behind the leader and bracket scoring is still open, modest contrarian picks are acceptable.
 3. If standings context is strong or unclear, prefer higher-probability picks.
 
 Fallback:
