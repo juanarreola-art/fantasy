@@ -48,9 +48,9 @@ Runtime guardrails:
 2. Do not install packages.
 3. Do not run scripts.
 4. Do not write, edit, delete, or move files.
-5. Do not depend on private systems, credentials, browser cookies, VPN-only resources, or authenticated services.
+5. Do not depend on private systems, credentials, browser cookies, VPN-only resources, authenticated services, or external network access.
 6. Do not wait for manual user or organizer action.
-7. If optional internet research is slow, unavailable, conflicting, or unnecessary, stop using it and rely on the game board.
+7. If any optional context is slow, unavailable, conflicting, or unnecessary, ignore it and rely on the official game board.
 
 Strategy text:
 

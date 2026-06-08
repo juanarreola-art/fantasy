@@ -10,9 +10,7 @@ Core principles:
 - Favor attackers from strong scoring matchups.
 - Favor goalkeepers and defenders from teams with stronger clean-sheet chances.
 - Use Risk Play only when the board supports a clear, low-to-medium risk edge.
-- Keep all reasoning fast, bounded, and independent of internet access.
-
-The agent may use public internet research only as optional context when available and fast. It must still produce a complete valid answer from the provided files alone.
+- Keep all reasoning fast, bounded, and based on provided tournament files.
 
 Expected runtime inputs include:
 

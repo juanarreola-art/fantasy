@@ -24,7 +24,7 @@ Source-of-truth rules:
 4. Do not select a player who is not eligible for the current matchday.
 5. Do not invent IDs, positions, teams, statistics, or fixture data.
 6. Treat missing, unavailable, null, or ambiguous metadata as unknown rather than negative.
-7. If public internet is available, use it only as optional supporting context and do not spend more than a brief check. The lineup must still be chosen from the tournament files.
+7. Base the lineup on the provided tournament files. Do not rely on external systems, private data, or unavailable context.
 
 Selection process:
 
